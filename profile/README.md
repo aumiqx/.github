@@ -87,6 +87,5 @@ MCP servers · multi-agent swarms · claude-flow orchestration
 
 **[aumiqx.com](https://aumiqx.com)** · built in India · open source by default
 
-*"apni poochh, khud hi khaega kyon?"*
 
 </div>
